@@ -22,8 +22,7 @@ From Wikipedia:
 
 # Plot of solutions
 
-![Here](http://imgur.com/a/qDdHx)
-
+[Here](http://i.imgur.com/U73Nbod.png)
 
 
 
