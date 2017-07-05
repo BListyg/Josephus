@@ -1,6 +1,6 @@
 # Josephus Problem in R
 
-I was inspired by [this](https://www.youtube.com/watch?v=uCsD3ZGzMgE) Numberphile video to both create a function that returns solutions to this problem and plot the solutions to this problem.
+I was inspired by [this](https://www.youtube.com/watch?v=uCsD3ZGzMgE) Numberphile video to create a function that returns solutions to this problem and as well as plot the solutions.
 
 From Wikipedia:
 
