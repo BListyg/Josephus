@@ -10,4 +10,14 @@ From Wikipedia:
 
 > The problem — given the number of people, starting point, direction, and number to be skipped — is to choose the position in the initial circle to avoid execution.    
   
+# Outline of the code
+
+* Takes a given number as an input
+
+* converts number to binary
+
+* Takes first digit of binary sequence and places it at the end
+
+* Reconverts new binary digit to Base 10.
+
 
