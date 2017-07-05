@@ -20,6 +20,10 @@ From Wikipedia:
 
 * Reconverts new binary digit to Base 10.
 
+# Plot of solutions
+
+![](https://{http://i.imgur.com/U73Nbod.png})
+
 
 
 
