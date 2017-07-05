@@ -20,4 +20,6 @@ From Wikipedia:
 
 * Reconverts new binary digit to Base 10.
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/qDdHx"><a href="//imgur.com/qDdHx"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
